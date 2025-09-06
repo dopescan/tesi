@@ -1,1 +1,5 @@
 # tesi
+
+core
+blockchain
+bitcoin
